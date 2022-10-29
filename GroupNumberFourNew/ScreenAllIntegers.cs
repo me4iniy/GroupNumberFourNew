@@ -11,13 +11,8 @@ namespace GroupNumberFourNew
         public static void PrintIntegers()
         {
             for (int i = 100; i < 201; i++)
-            {
                 if (i % 3 == 0)
-                {
                     Console.WriteLine(i);
-                }
-                else continue;
-            }
         }
     }
 }
