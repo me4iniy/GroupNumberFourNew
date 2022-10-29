@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GroupNumberFourNew
 {
-    public class AllIntegersFromTo
+    public class ScreenAllIntegersFromTo
     {
         public void PrintIntegers(int a, int b, int c)
         {
